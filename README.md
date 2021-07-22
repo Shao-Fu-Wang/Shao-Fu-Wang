@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shao-Fu-Wang
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, JavaScript,and CSS
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on campus with friends
 - 📫 michaelwang920324@protonmail.com
 
