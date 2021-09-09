@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shao-Fu-Wang
+- 👋 Hi, I’m @WANG, Shao-fu
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on campus with friends
