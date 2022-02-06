@@ -1,6 +1,3 @@
-HKUST nobody
-Life is not always perfect. Like a road, it has many bends, ups and downs, but knowing that one day I will eventually die makes me happy.
-
 - 📫 michaelwang920324@protonmail.com
 
 <!---
