@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @WANG, Shao-fu
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to build a stock prediction model
+HKUST nobody
+Life is not always perfect. Like a road, it has many bends, ups and downs, but knowing that one day I will eventually die makes me happy.
+
 - 📫 michaelwang920324@protonmail.com
 
 <!---
