@@ -1,4 +1,4 @@
-- 📫 michaelwang920324@protonmail.com
+- 📫 swangem@connect.ust.hk
 
 <!---
 Shao-Fu-Wang/Shao-Fu-Wang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
